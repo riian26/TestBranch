@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0D25FC5924DD4ADE00374098 /* IvanPunya.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D25FC5824DD4ADE00374098 /* IvanPunya.storyboard */; };
+		B34EA2FE24DD4CEA0078C3E0 /* zlfpunya.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B34EA2FD24DD4CEA0078C3E0 /* zlfpunya.storyboard */; };
 		D56C5DDD24DD493C008863BB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56C5DDC24DD493C008863BB /* AppDelegate.swift */; };
 		D56C5DDF24DD493C008863BB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56C5DDE24DD493C008863BB /* SceneDelegate.swift */; };
 		D56C5DE124DD493C008863BB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56C5DE024DD493C008863BB /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		0D25FC5824DD4ADE00374098 /* IvanPunya.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = IvanPunya.storyboard; sourceTree = "<group>"; };
+		B34EA2FD24DD4CEA0078C3E0 /* zlfpunya.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = zlfpunya.storyboard; sourceTree = "<group>"; };
 		D56C5DD924DD493C008863BB /* TestBranch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestBranch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D56C5DDC24DD493C008863BB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D56C5DDE24DD493C008863BB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				D56C5DE024DD493C008863BB /* ViewController.swift */,
 				D56C5DE224DD493C008863BB /* Main.storyboard */,
 				0D25FC5824DD4ADE00374098 /* IvanPunya.storyboard */,
+				B34EA2FD24DD4CEA0078C3E0 /* zlfpunya.storyboard */,
 				D56C5DE824DD493E008863BB /* Assets.xcassets */,
 				D56C5DEA24DD493E008863BB /* LaunchScreen.storyboard */,
 				D56C5DED24DD493E008863BB /* Info.plist */,
@@ -242,6 +245,7 @@
 				D56C5DE924DD493E008863BB /* Assets.xcassets in Resources */,
 				0D25FC5924DD4ADE00374098 /* IvanPunya.storyboard in Resources */,
 				D56C5DE424DD493C008863BB /* Main.storyboard in Resources */,
+				B34EA2FE24DD4CEA0078C3E0 /* zlfpunya.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
