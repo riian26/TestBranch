@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B34EA2FC24DD4B270078C3E0 /* zlfpunya.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B34EA2FB24DD4B270078C3E0 /* zlfpunya.storyboard */; };
 		D56C5DDD24DD493C008863BB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56C5DDC24DD493C008863BB /* AppDelegate.swift */; };
 		D56C5DDF24DD493C008863BB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56C5DDE24DD493C008863BB /* SceneDelegate.swift */; };
 		D56C5DE124DD493C008863BB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56C5DE024DD493C008863BB /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B34EA2FB24DD4B270078C3E0 /* zlfpunya.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = zlfpunya.storyboard; sourceTree = "<group>"; };
 		D56C5DD924DD493C008863BB /* TestBranch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestBranch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D56C5DDC24DD493C008863BB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D56C5DDE24DD493C008863BB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				D56C5DEA24DD493E008863BB /* LaunchScreen.storyboard */,
 				D56C5DED24DD493E008863BB /* Info.plist */,
 				D56C5DE524DD493C008863BB /* TestBranch.xcdatamodeld */,
+				B34EA2FB24DD4B270078C3E0 /* zlfpunya.storyboard */,
 			);
 			path = TestBranch;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 				D56C5DEC24DD493E008863BB /* LaunchScreen.storyboard in Resources */,
 				D56C5DE924DD493E008863BB /* Assets.xcassets in Resources */,
 				D56C5DE424DD493C008863BB /* Main.storyboard in Resources */,
+				B34EA2FC24DD4B270078C3E0 /* zlfpunya.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
